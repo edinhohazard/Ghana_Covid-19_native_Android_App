@@ -2,7 +2,7 @@
 
 Ghana Covid Android App
 
-![alt text](https://raw.githubusercontent.com/Samuelincoom/Ghana_Covid-19_native_Android_App/master/app-screenshots-fb-ad-2-min.png)
+![alt text](https://raw.githubusercontent.com/Samuelincoom/Ghana_Covid-19_native_Android_App/master/app-screenshots-fb-ad-2-min.png)(https://dl.orangedox.com/GhanaCovidCasesNativeApp)
 
 
 
