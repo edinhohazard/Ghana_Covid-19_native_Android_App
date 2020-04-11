@@ -1,0 +1,110 @@
+<resources>
+
+
+    <string name="covid19" translatable="false">COVID19</string>
+
+    <string name="zero" translatable="false">0</string>
+    <string-array name="detail_item_menu">
+        <item>Pin to Dashboard</item>
+    </string-array>
+    <string name="feedback_url" translatable="false">https://github.com/Samuelincoom/GhanaCovidAndroidApp</string>
+
+    <string name="ad_id_interstitial" translatable="false">ca-app-pub-3734392305194404/8321771902</string>
+    <string name="ad_id_banner" translatable="false">ca-app-pub-3734392305194404/4174836856</string>
+
+    <string name="ghana_daily_info" translatable="false">Confirmed, recovered and death are total number</string>
+
+
+
+    <string name="admob_showIntersitial_ad_unit_id" translatable="false">ca-app-pub-3734392305194404/8321771902</string>
+
+
+
+
+
+        <string name="app_name">Covid19Gh</string>
+        <string name="action_ok">OK</string>
+        <string name="action_cancel">Cancel</string>
+        <string name="message_user_unauthorized">You already login into another device</string>
+        <string name="msg_unexpected_error">Click world icon for message</string>
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="confirmed_case_count">Confirmed : %1$s</string>
+        <string name="recovered_case_count">Recovered : %1$s</string>
+    <string name="source_data" translatable="false">Data source : https://ghanahealthservice.org/covid19/</string>
+
+
+
+    <string name="how_to_pin" translatable="false">Open map, tap and hold to country item, this will pin data</string>
+
+
+    <string name="pinned_not_set" translatable="false">Pinned location is not set</string>
+
+
+    <string name="update_url" translatable="false">https://ghanahealthservice.org/covid19/</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="delta" translatable="false">Delta</string>
+    <string name="country_ghana" translatable="false">Ghana specifics</string>
+    <string name="show_data" translatable="false">Show data</string>
+        <string name="death_case_count">Deaths : %1$s</string>
+        <string name="information_last_update">Last update %1$s</string>
+        <string name="information_location_total_case"> "Total %1$s cases on China and %2$s on the other location"</string>
+        <string name="visitable_recycler_adapter_unregistered_message">
+        Resource %1$s.xml not registered on VisitableRecyclerAdapter!
+    </string>
+        <string name="type_city_region_region">Type country or region region …</string>
+        <string name="case_reported">Cases reported</string>
+        <string name="tap_on_statistic">This is an easy to read pie chart.. Tap on the specifics for more information or Click on the World Icon to see all stats more information…   Now you can pin specific countries to dashboard by clicking and holding on their card\nData source : https://www.who.int/</string>
+        <string name="total_case">Total Case</string>
+        <string name="confirmed">Confirmed</string>
+        <string name="recovered">Recovered</string>
+        <string name="deaths">Deaths</string>
+
+        <string name="general_error_title">Snap!</string>
+        <string name="general_error_description">Sorry something went wrong</string>
+        <string name="connection_error_title">Couldn\'t connect to Internet</string>
+        <string name="connection_error_description">There may be a problem with your connection</string>
+        <string name="retry">Retry</string>
+          <string name="feedback">Feedback</string>
+        <string name="daily_updates">Daily Updates</string>
+        <string name="show_graph">Show Graph</string>
+        <string name="pinch_zoom">Pinch to zoom in or zoom out data</string>
+        <string name="unpin" translatable="false">Unpin</string>
+
+
+
+
+
+
+
+
+
+
+
+       <string name="per_country" translatable="false">Per Country Data</string>
+    <string name="source" translatable="false">Source : %1$s</string>
+    <string name="case_per_region_chart" translatable="false">Per Region Case Graph</string>
+    <string name="case_daily_chart" translatable="false">Daily Case Graph</string>
+    <string name="case_daily" translatable="false">Daily Case</string>
+
+    <string name="new_case" translatable="false">New Case</string>
+    <string name="new_case_case_count" translatable="false">New Case : %1$s</string>
+    <string name="check_update" translatable="false">Check for update</string>
+    <string name="day_on" translatable="false">(Day #%1$s)</string>
+
+     <string name="update_widget_start" translatable="false">Updating widget data …</string>
+    <string name="update_widget_success" translatable="false">Updating widget data successful</string>
+    <string name="update_widget_fail" translatable="false">Updating widget data failed</string>
+
+    <string name="total_chart_info" translatable="false">Total Line Chart shows the total number of confirmed and recovered case over period of time</string>
+    <string name="delta_chart_info" translatable="false">Delta Line Chart shows the increment of confirmed and recovered case over period of time</string>
+   
+
+
+
+
+
+</resources>
+
+
+
+

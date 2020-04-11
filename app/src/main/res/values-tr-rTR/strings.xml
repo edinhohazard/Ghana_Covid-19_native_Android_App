@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid19Gh</string>
+    <string name="action_ok">Tamam</string>
+    <string name="action_cancel">İptal etmek</string>
+    <string name="message_user_unauthorized">Zaten başka bir cihaza giriş yaptınız</string>
+    <string name="msg_unexpected_error">Mesaj için dünya simgesini tıklayın</string>
+    <string name="hello_blank_fragment">Merhaba</string>
+    <string name="confirmed_case_count">Onaylandı: %1$s</string>
+    <string name="recovered_case_count">iyileşmiş: %1$s</string>
+    <string name="death_case_count">Ölümler:  %1$s</string>
+    <string name="information_last_update">Son Güncelleme %1$s</string>
+    <string name="information_location_total_case">Çin\'deki toplam %1$s ve diğer konumdaki %2$s</string>
+    <string name="visitable_recycler_adapter_unregistered_message">%1$s.xml kaynağı VisitableRecyclerAdapter üzerinde kayıtlı değil!</string>
+    <string name="type_city_region_region">Ülke veya il bölgesi yazın…</string>
+    <string name="case_reported">Bildirilen vakalar</string>
+    <string name="tap_on_statistic">Daha fazla bilgi almak için Numara\'ya dokunun veya tüm istatistikleri görmek için Dünya Simgesine tıklayın. Veri kaynağı: https://www.who.int/</string>
+    <string name="total_case">Toplam Vaka</string>
+    <string name="confirmed">Onaylanmış</string>
+    <string name="recovered">Kurtarılan</string>
+    <string name="deaths">Ölümler</string>
+    <string name="general_error_title">Hata</string>
+    <string name="general_error_description">Üzgünüm bir şeyler ters gitti</string>
+    <string name="connection_error_title">İnternete bağlanılamadı</string>
+    <string name="connection_error_description">Bağlantınızla ilgili bir sorun olabilir</string>
+    <string name="retry">Yeniden Dene</string>
+    <string name="feedback">geri bildirim</string>
+    <string name="daily_updates">Günlük Güncellemeler</string>
+    <string name="show_graph">Grafiği Göster</string>
+    <string name="pinch_zoom">Verileri yakınlaştırmak veya uzaklaştırmak için sıkıştırma</string>
+    <string name="unpin" translatable="false">Kaldırmak</string>
+</resources>

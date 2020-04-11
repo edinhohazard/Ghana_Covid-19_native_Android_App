@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid19Gh</string>
+    <string name="action_ok">حسنا</string>
+    <string name="action_cancel">إلغاء</string>
+    <string name="message_user_unauthorized">قمت بتسجيل الدخول بالفعل إلى جهاز آخر</string>
+    <string name="msg_unexpected_error">انقر فوق رمز العالم للرسالة</string>
+    <string name="hello_blank_fragment">مرحبا</string>
+    <string name="confirmed_case_count">mwkd: %1$s</string>
+    <string name="recovered_case_count">tama alastrdad: %1$s</string>
+    <string name="death_case_count">alwfyat: %1$s</string>
+    <string name="information_last_update">akhar thdyth: %1$s</string>
+    <string name="information_location_total_case">iijmaliun alhalat %1$s fi alsiyn w %2$ s fi almawqie alakhar</string>
+    <string name="visitable_recycler_adapter_unregistered_message">لم يتم تسجيل المورد [٪ 1 $s.xml] في VisitableRecyclerAdapter!</string>
+    <string name="type_city_region_region">اكتب منطقة البلد أو المقاطعة ...</string>
+    <string name="case_reported">تم الإبلاغ عن الحالات</string>
+    <string name="tap_on_statistic">اضغط على الأرقام للحصول على معلومات أكثر تفصيلاً أو انقر على رمز العالم أدناه لمشاهدة جميع الإحصائيات مزيد من المعلومات مصدر البيانات: https://www.who.int/</string>
+    <string name="total_case">إجمالي الحالة</string>
+    <string name="confirmed">تم تأكيد</string>
+    <string name="recovered">تعافى</string>
+    <string name="deaths">الوفيات</string>
+    <string name="general_error_title">خطأ</string>
+    <string name="general_error_description">عذرا، هناك خطأ ما</string>
+    <string name="connection_error_title">تعذر الاتصال بالإنترنت</string>
+    <string name="connection_error_description">قد تكون هناك مشكلة في اتصالك</string>
+    <string name="retry">أعد المحاولة</string>
+    <string name="feedback">ردود الفعل</string>
+    <string name="daily_updates">التحديثات اليومية</string>
+    <string name="show_graph">إظهار الرسم البياني</string>
+    <string name="pinch_zoom">اضغط للتكبير أو التصغير للبيانات</string>
+</resources>
