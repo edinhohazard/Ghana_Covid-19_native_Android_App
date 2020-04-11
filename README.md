@@ -2,6 +2,10 @@
 
 Ghana Covid Android App
 
+![alt text](https://raw.githubusercontent.com/Samuelincoom/Ghana_Covid-19_native_Android_App/master/app-screenshots-fb-ad-2-min.png)
+
+
+
 # Disclaimer 1: 
 Please note that information displayed in the app is automatically picked from Ghana health services website https://ghanahealthservice.org/covid19/.. The BOT i am making for this app will make automatic checks and scrape the Ghana health services site for new data every 24hours automatically in the app.. It only uses the figures provided by my homeland's government to display an accurate beautiful graph on mobile app easy to read... 100% native and kotlin and open source...
 
