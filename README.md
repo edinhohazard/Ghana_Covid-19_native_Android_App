@@ -1,4 +1,4 @@
-# Ghana_Covid-19_native_Android_App
+# Ghana_Covid-19_native_Android_App .. A Corona virus tracker.. Its automatically updated Data is specifically based on my homeland Ghana only
 
 <a href="https://dl.orangedox.com/GhanaCovidCasesNativeApp" rel="nofollow">
 <img alt="Ghana corona tracker" src="https://i.ibb.co/8YDvwLw/trydemo.png">
