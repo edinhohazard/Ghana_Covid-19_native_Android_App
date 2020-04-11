@@ -3,7 +3,7 @@
 <a href="https://dl.orangedox.com/GhanaCovidCasesNativeApp" rel="nofollow">
 <img alt="Ghana corona tracker" src="https://i.ibb.co/8YDvwLw/trydemo.png">
 </a>
-<img src="https://i.ibb.co/YRcYM9r/descriptioncorona-min-1-optimized.png" />
+
 
 ![alt text](https://raw.githubusercontent.com/Samuelincoom/Ghana_Covid-19_native_Android_App/master/app-screenshots-fb-ad-2-min.png)
 
