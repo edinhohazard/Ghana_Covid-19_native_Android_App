@@ -20,7 +20,7 @@ hence in such a country, its very normal for government to lie or hide informati
 As seen in China, the WHO is a powerless organization and cannot prevent any government in the world from lying about number cases at the moment.. They only depend on the "word of mouth" of each Government for their information on number of cases.. This is why China lied in December 2019 about the mode of tranmission of the virus and it was carried as gospel by the W.H.O. although Chinese government lied back then... This was the cause of the whole pandemic, had china been truthful at the beginning, it would have ended quickly in wuhan just like SARS did..           
 
 
-# Why it was made today
+# Why it was made today 10th aprill..
 Bored in quarantine i decided this saturday to create an app to display data of covid cases in my home country Ghana.. since its not part of what i made for our clients from other countries. This app and API for Ghana should be up and running today by 8pm Ghana time or 10PM Swedish time
 
 
