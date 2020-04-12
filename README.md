@@ -1,3 +1,4 @@
+# forked from https://github.com/Samuelincoom/Ghana_Covid-19_native_Android_App
 # Ghana_Covid-19_native_Android_App .. A Corona virus tracker.. Its automatically updated Data is specifically based on my homeland Ghana only
 
 <a href="https://dl.orangedox.com/GhanaCovidCasesNativeApp" rel="nofollow">
